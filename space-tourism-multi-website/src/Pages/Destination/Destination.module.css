@@ -1,0 +1,102 @@
+.img_container{
+    height: 18rem;
+    width: 18rem;
+    margin: 4rem 0 0 15rem;
+}
+
+.destination_section{
+    margin: 4rem 0 0 0;
+}
+
+.destination_left_container{
+    width: 57%;
+    height: 475px;
+}
+
+.destination_article{
+    width: 43%;
+    padding-top: 4rem;
+}
+
+.destination_tabs{
+    display: flex;
+    width: 237.5px;
+    height: 28px;
+    top: 335px;
+    left: 69px;
+    font-family: "Barlow Condensed";
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.destination_ul{
+    line-height: 17px;
+    letter-spacing: 2.362499952316284px;
+    text-align: left;
+    color: #D0D6F9;
+    margin-right: 0.5rem;
+}
+
+.destination_hr{
+    width: 250px;
+    height: 1px;
+    top: 605px;
+    left: 24px;
+    border: 1px solid #383B4B;
+    margin-bottom: 2rem;
+}
+
+.destination_distance_time_container{
+    display: flex;
+    justify-content: left;
+    width: 250px;
+}
+
+.destination_distance_container{
+    width: 50%;
+}
+
+.destination_distance_time{
+    width: 50%;
+}
+
+.destination_h1{
+    text-transform: uppercase;
+    font-family: 'Bellefair';
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 115px;
+    letter-spacing: 0px;
+}
+
+.destination_p_container{
+    height: 5.5rem;
+    width: 250px;
+}
+
+.description_p{
+    font-size: 10px;
+    font-family: 'Barlow';
+    font-weight: 400;
+    text-align: left;
+    line-height: 1rem;
+    color: #D0D6F9;
+}
+
+.destination_DT_h2{
+    font-family: 'Bellefair';
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.destination_DT_p{
+    font-family: 'Barlow Condensed';
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 2.362499952316284px;
+    color: #D0D6F9;
+    text-transform: uppercase;
+}

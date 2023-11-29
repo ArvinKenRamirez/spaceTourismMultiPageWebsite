@@ -1,0 +1,58 @@
+.technology_article{
+    width: 50%;
+    margin: 4rem 0 6rem 0;
+}
+
+.technology_left_container{
+    width: 50%;
+    display: flex;
+    justify-content: right;
+}
+
+.tech_terminology_Container{
+    display: flex;
+    margin: 5rem 0 0 10rem;
+}
+
+.technology_img_container{
+    height: 25rem;
+    margin: 5rem 0 0 0;
+}
+
+.tech_description{
+    display: flex;
+    justify-content: left;
+    height: 8.125rem;
+    width: 24.7rem;
+    font-family: 'Barlow';
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+    letter-spacing: 0px;
+    color: #D0D6F9;
+}
+
+.tech_terminology_right{
+    margin: 0 0 0 4rem;
+}
+
+.tech_name{
+    width: 30rem;
+    font-family: 'Bellefair';
+    font-size: 3.5rem;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin: 0 0 2.5rem 0;
+    text-transform: uppercase;
+}
+
+.tech_term_p{
+    font-family: 'Barlow Condensed';
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 2.700000047683716px;
+    color: #D0D6F9;
+}

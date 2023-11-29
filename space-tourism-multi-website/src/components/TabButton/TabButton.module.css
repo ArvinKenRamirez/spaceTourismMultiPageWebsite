@@ -1,0 +1,21 @@
+.tabButton_li{
+    list-style: none;
+}
+
+.destination_ul{
+    line-height: 17px;
+    letter-spacing: 2.362499952316284px;
+    text-align: left;
+    color: #D0D6F9;
+    margin-right: 0.5rem;
+    background-color: #d0d6f900;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: ease-in-out 250ms;
+    border: 0;
+}
+
+.destination_ul:hover{
+    color: #FFF;
+    border-bottom: 1px solid #FFFF;
+}

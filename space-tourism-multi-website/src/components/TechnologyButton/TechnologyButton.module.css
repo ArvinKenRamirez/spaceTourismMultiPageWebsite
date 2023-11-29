@@ -1,0 +1,39 @@
+.techBtnStyle_default{
+    width: 4.5rem;
+    height: 4.5rem;
+    margin: 0 0 1rem 0;
+    position: relative;
+    background-color:  #ffffff00; 
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    font-family: 'Bellefair';
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.techBtnStyle_default:focus{
+    width: 4.5rem;
+    height: 4.5rem;
+    margin: 0 0 1rem 0;
+    position: relative;
+    background-color: #FFFFFF; 
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    font-family: 'Bellefair';
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 2px;
+    color: #0B0D17;
+}
