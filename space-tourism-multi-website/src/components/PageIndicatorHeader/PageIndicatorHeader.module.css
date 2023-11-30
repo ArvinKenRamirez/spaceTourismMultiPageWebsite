@@ -1,5 +1,6 @@
 .pageIndicatorHeader_container{
     display: flex;
+    gap: 1rem;
     margin-left: 10rem;
 }
 .pageIndicatorHeader_number{

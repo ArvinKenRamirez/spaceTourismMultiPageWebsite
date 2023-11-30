@@ -4,6 +4,21 @@
     margin: 4rem 0 0 15rem;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+    .img_container {
+      animation: planet-img-spin infinite 20s linear;
+    }
+  }
+
+@keyframes planet-img-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
 .destination_section{
     margin: 4rem 0 0 0;
 }

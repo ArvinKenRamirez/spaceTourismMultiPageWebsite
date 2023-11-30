@@ -5,7 +5,7 @@ function ExploreButton() {
     return (
         <Link to="/destination" className={STYLES.explore_button_container} style={{cursor: "default"}}>
             <div className={STYLES.explore_button}>
-                <h3 className={STYLES.explore_text}>Expolore</h3>
+                <h3 className={STYLES.explore_text}>Explore</h3>
             </div>
         </Link>
     )

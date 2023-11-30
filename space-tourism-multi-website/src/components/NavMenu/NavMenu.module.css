@@ -33,15 +33,39 @@
     line-height: 19px;
     letter-spacing: 1.5px;
     text-align: left;
+    position: relative;
 }
 
 .home_navLinks_item{
     cursor: pointer;
     text-decoration: none;
     color: #FFFF;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
-.home_navLinks_item:focus{
-    border-bottom: 1px solid #FFFF;
+
+.navMenu_hr{
+    position: absolute;
+    left: -20rem;
+    width: 23rem;
+    border: 1px solid #ffffff32;
+}
+
+.home_navLinks_item_active{
+    cursor: pointer;
+    text-decoration: none;
+    color: #FFFF;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-bottom: 1px solid #ffffff;
+}
+
+.home_navLinks_item:hover{
+    border-bottom: 1px solid #ffffff75;
 }
 
 .menu_logo_button{
